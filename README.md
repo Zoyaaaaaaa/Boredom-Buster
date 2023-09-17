@@ -1,2 +1,2 @@
-# boredlist
-Generates task
+# Boredom  Buster
+Generates task to do when you are bored.
